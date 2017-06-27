@@ -17,7 +17,6 @@ PROCESS_TIMEOUT = 10
 
 lcl = '/home/pi/mostec17'
 hal = 'https://eesjs1.net/testsite/hw_supervisor'
-/
 
 while True:
     print("Here")
