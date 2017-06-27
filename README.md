@@ -4,7 +4,7 @@ This repository is the operational distribution for the MITES and MOSTEC 2017 Ra
 files for mites raspberry pi's
 
 ## Quick Setup:
-This repo should live in the `pi` user's home directory.  Inside of the repo is a hidden file called `.catsoop_login` that must have the user's credentials entered like so:
+This repo should live in the `pi` user's home directory.  Inside of the repo is a hidden file called `catsoop_login` that must have the user's credentials entered like so:
 
 ```
 user
