@@ -4,7 +4,7 @@ After=multi-user.target
 
 [Service]
 Type=idle
-ExecStart=/usr/bin/python3 /home/pi/mites17/heartbeat.py > /home/pi/mites17/heartbeat.log 2>&1
+ExecStart=/usr/bin/python3 /home/pi/mostec17/heartbeat.py > /home/pi/mostec17/heartbeat.log 2>&1
 
 [Install]
 WantedBy=multi-user.target
